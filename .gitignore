@@ -1,2 +1,4 @@
 insurance-cross-sell-prediction/
 credentials.py
+.ipynb_checkpoints/
+__pycache__/
